@@ -1,5 +1,5 @@
 # hndiscuss-bookmarklet
-Bookmarklet to go to the Hacker News discussion page of the current URL.
+Bookmarklet to go to the Hacker News discussion page of the current URL. Tested in Firefox.
 
 If there isn't a discussion page for the URL you're on, it will offer you to submit it.
 
